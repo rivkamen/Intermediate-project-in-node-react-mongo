@@ -5,7 +5,7 @@ const conectDB=async()=>{
 
         }
         catch(err){
-            console.error("not error conection to DB!!! sorry....😥😥😣"+err +" anyway, you should be carefull")
+            console.error("not error conection to DB!!! sorry....😥😥😣"+err +" anyway, you should be carefull!!!")
         }
     }
     module.exports=conectDB
